@@ -1,0 +1,29 @@
+Design patterns are used to represent some of the best practices adapted by experienced
+object oriented software developers.
+
+Design patterns are categorized into three types
+
+1. Creational Design patterns
+2. Structural Design patterns
+3. Behavioral Design patterns
+
+
+Creational Design Patterns
+--------------------------
+1. Abstract Factory
+2. Builder
+3. Factory Method
+4. Object Pool
+5. Prototype
+6. Singleton
+
+
+
+Abstract Factory
+
+- Provide an interface for creating families of related or dependent objects without specifying their
+concrete classes
+
+- A hierarchy that encapsulates: many possible platforms and the construction of a suite of products
+
+- The new operator is considered harmful
